@@ -83,4 +83,13 @@ h1 {
     .images:hover  .solo{
         bottom:10px ;
     }
+h2 {
+        font-size: 25px; 
+        color:black; 
+        text-transform: none;
+        text-align: left; 
+        margin: 0 0 35px 0; 
+        text-shadow: 0px 1px 1px #f2f2f2;
+       
+          }
    
